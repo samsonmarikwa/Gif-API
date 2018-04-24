@@ -32,12 +32,14 @@ header {
 }
 
 #preset-btns,
-#favorite-gifs {
+#favorite-gifs,
+#save-favorites {
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-#preset-btns {
+#preset-btns,
+#save-favorites {
     padding-bottom: 10px;
     border-bottom: 1px solid #ffffff;
 }
